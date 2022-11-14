@@ -1,0 +1,187 @@
+﻿1,CJD Equipment,,, 📅, DATE REQUIRED , 2022-11-15   
+﻿2,CJD Equipment,,, 👨🏻‍💼, CUSTOMER 
+﻿3,CJD Equipment,,, 📧, EMAIL ADDRESS , bjolly@cjd.com.au   
+﻿5,CJD Equipment,,, 📅, DATE DESPATCHED  
+﻿4,CJD Equipment,,, 🚛, END CUSTOMER 
+﻿7,CJD Equipment,,, 🏷️, PRODUCTION ORDER 
+﻿6,CJD Equipment,,, 👨🏼‍💼, CLIENT ORDER # 
+﻿9,CJD Equipment,,, 1️⃣, UNIT , , [A-1130]  ~Icepack 2000-ES Unit, , [A-1131B]  ~Install Kit suit Icepack 2000-ES Unit BASE MOUNT  
+﻿8,CJD Equipment,,, 💲, PURCHASE ORDER 
+﻿11,CJD Equipment,,, 🗻, MOUNTING , Base   
+﻿12,CJD Equipment,,, 🎨, PAINT COLOUR , Raw   
+﻿14,CJD Equipment,,, ▶️, BADGE , , Kenworth 3 Switch   
+﻿13,CJD Equipment,,, 🎁, LID , , [A-1169]  ES Standard Lid   
+﻿15,CJD Equipment,,, ❄️, EVAPORATOR , , [A-1310]  ~Evaporator Under Shelf   
+﻿10,CJD Equipment,,, 🚛, TRUCK , Kenworth   
+﻿21,CJD Equipment,,,🌨️, BUNK AIR , , [A-1631]  ~Bunk Air Kit, , [A-1310-L]  ~Evaporator Under Shelf LHD Valve, , [FP-8070]  ~Evap Bracket Stand Up [x2]   
+﻿17,CJD Equipment,,, 👨🏻‍🏭, WELDED BRACKET , true   
+﻿22,CJD Equipment,,, ❄️, DRIER , , [SP-2250]  ~Reciever Drier RD2089   
+﻿24,CJD Equipment,,, ❄️, PRESSURE SWITCH , , [SP-2257]  Pressure switch   
+﻿25,CJD Equipment,,, 🔑, CONTROL PANEL , , [A-1373T-BASIC]  ~Control Panel Toggle Start, , [A-1373T-1000]  ~Badge Toggle (1000)   
+﻿26,CJD Equipment,,, 📦, MOUNTING INSTALL , , [SP-2051]  Base Mount Bush [x4], , [FP-8240]  Air Deflector, , [FP-2551]  Solid Rear Cover   
+﻿28,CJD Equipment,,, 🚰, AC FITTINGS , ,#6 90° FOR [x4], ,#6 O-rings [x4], ,#10 90° FOR, ,#10 0° FOR, ,#10 0° FOR SP, ,#10 SP Splicer, ,#10 O-rings [x3]   
+﻿30,CJD Equipment,,, 🗜️, WIRING BRACKET , ,  [FP-8080] Lizard Bracket   
+﻿33,CJD Equipment,,,📦, TOOLBOX WIRING BOX , , [A-1361]  Toolbox Wiring Box - (TomBox)  
+﻿35,CJD Equipment,,, 📄, SERVICE SHEET , , [A-1058]  Service Sheet   
+﻿27,CJD Equipment,,, ❄️, EVAPORATOR INSTALL , , [FP-8070]  ~Evap Bracket Stand Up [x2]   
+﻿34,CJD Equipment,,,📦, GENERIC KIT , , [SP-2089] Generic Kit   
+﻿36,CJD Equipment,,,📄, CHECKLIST , , [A-1040]  Install Service Checklist   
+﻿41,CJD Equipment,,,⛽, FUEL HOSE , 14   
+﻿42,CJD Equipment,,,⛽, FUEL HOSE CONDUIT , 7   
+﻿43,CJD Equipment,,,🔑,7-CORE CABLE , 13  
+﻿44,CJD Equipment,,,🔑, 7-CORE CONDUIT , 13   
+﻿45,CJD Equipment,,,⚡, BATTERY CABLE , 12        
+﻿46,CJD Equipment,,,⚡, BATTERY CABLE CONDUIT , 12        
+﻿47,CJD Equipment,,,❄️, #6 AC HOSE , 10           
+﻿49,CJD Equipment,,,❄️, #10 AC HOSE , 10           
+﻿37,CJD Equipment,,,⚡, CHARGE , 12V   
+﻿50,CJD Equipment,,,🔧, 50mm CONDUIT , , 1500mm   
+﻿52,CJD Equipment,,,🌏, 2-CORE CABLE , 3   
+﻿54,CJD Equipment,,, 👷, SENT BY / CHECKED BY 
+﻿55,CJD Equipment,,, 🏁, ORDER COMPLETE? <h3>✅ / ❌ </h3>  
+﻿53,CJD Equipment,,,🌏, 2-CORE CONDUIT , 3   
+﻿56,CJD Equipment,,, 🏁, BACKORDER ITEMS ,Items listed below will be sent ASAP:  
+﻿1,TTSC Group,,, 📅, DATE REQUIRED , 2022-12-12   
+﻿2,TTSC Group,,, 👨🏻‍💼, CUSTOMER 
+﻿57,CJD Equipment,,, 📝, NOTES 
+﻿3,TTSC Group,,, 📧, EMAIL ADDRESS , admin@ttscgroup.com.au   
+﻿4,TTSC Group,,, 🚛, END CUSTOMER 
+﻿5,TTSC Group,,, 📅, DATE DESPATCHED  
+﻿6,TTSC Group,,, 👨🏼‍💼, CLIENT ORDER # 
+﻿58,CJD Equipment,,, 
+﻿7,TTSC Group,,, 🏷️, PRODUCTION ORDER 
+﻿9,TTSC Group,,, 1️⃣, UNIT , , [A-1110]  ~Icepack 2000-IC Unit, , [A-1111]  ~Install Kit suit Icepack 2000-IC Unit  
+﻿10,TTSC Group,,, 🚛, TRUCK , Kenworth   
+﻿11,TTSC Group,,, 🗻, MOUNTING , , [A-1486]  IC Cross Member Dolly Pull Kit- suit KENWORTH with HD dolly pull   
+﻿13,TTSC Group,,, 🎁, LID , , [FP-3045]  2000-IC Bottom Cover plate   
+﻿12,TTSC Group,,, 🎨, PAINT COLOUR , Raw   
+﻿14,TTSC Group,,, ▶️, BADGE , , Rectangle '4 hole'   
+﻿15,TTSC Group,,, ❄️, EVAPORATOR , , [A-1310]  ~Evaporator Under Shelf   
+﻿8,TTSC Group,,, 💲, PURCHASE ORDER 
+﻿16,TTSC Group,,,🔋, AUTO START,, [A-1370] ~Auto Start Kit
+﻿19,TTSC Group,,,🔩, FASTENERS , , [A-1610] IC X-Mem Bolt Kit  
+﻿17,TTSC Group,,, 👨🏻‍🏭, WELDED BRACKET , true   
+﻿22,TTSC Group,,, ❄️, DRIER , , [SP-2250]  ~Reciever Drier RD2089   
+﻿24,TTSC Group,,, ❄️, PRESSURE SWITCH , , [SP-2257]  Pressure switch   
+﻿26,TTSC Group,,, 📦, MOUNTING INSTALL , , [SP-2060] Rear Mount Bush [x4], , [MOT-3309]  BSP - 3/8 BSP M/F Adapter - Elbow 90°   
+﻿25,TTSC Group,,, 🔑, CONTROL PANEL , , [A-1371A-BASIC]  ~Control Panel  Auto Start, , [A-1371A-300]  ~Badge Auto (300)   
+﻿27,TTSC Group,,, ❄️, EVAPORATOR INSTALL , , [FP-8070]  ~Evap Bracket Stand Up [x2]   
+﻿28,TTSC Group,,, 🚰, AC FITTINGS , ,#6 90° FOR [x4], ,#6 O-rings [x4], ,#8 45° FOR [x1], ,#8 0° FOR-SP [x1], ,#8 O-rings [x2] ,#10 90° FOR, ,#10 O-rings [x1]   
+﻿29,TTSC Group,,,❄️, CONDENSER , , [A-1210]  ~Condensor Kit - Standard, 
+    , [FP-7040]  ~Condensor Bolt On Leg (x2), , 3/8 x 1 bolt (x4), 3/8 washer (x8), 3/8 nyloc nut (x4)   
+﻿18,TTSC Group,,,📦, VENTING ,   
+﻿30,TTSC Group,,, 🗜️, WIRING BRACKET , ,  [FP-8202]  ~Bracket - Loom - Under Cab - suit Kenworth K200   
+﻿33,TTSC Group,,,📦, TOOLBOX WIRING BOX , , [A-1361A] Toolbox Wiring Box (Auto Start)  
+﻿34,TTSC Group,,,📦, GENERIC KIT , , [SP-2089] Generic Kit   
+﻿35,TTSC Group,,, 📄, SERVICE SHEET , , [A-1058]  Service Sheet   
+﻿38,TTSC Group,,,⚡, CHARGE INSTALL , , [A-1241]  ~Remote Wiring Box   
+﻿36,TTSC Group,,,📄, CHECKLIST , , [A-1040]  Install Service Checklist   
+﻿41,TTSC Group,,,⛽, FUEL HOSE , 16   
+﻿42,TTSC Group,,,⛽, FUEL HOSE CONDUIT , 8   
+﻿44,TTSC Group,,,🔑, 7-CORE CONDUIT , 14   
+﻿45,TTSC Group,,,⚡, BATTERY CABLE , 12        
+﻿46,TTSC Group,,,⚡, BATTERY CABLE CONDUIT , 12        
+﻿47,TTSC Group,,,❄️, #6 AC HOSE , 6           
+﻿37,TTSC Group,,,⚡, CHARGE , 12V   
+﻿48,TTSC Group,,,❄️, #8 AC HOSE , 12           
+﻿49,TTSC Group,,,❄️, #10 AC HOSE , 12           
+﻿50,TTSC Group,,,🔧, 50mm CONDUIT , , 1500mm   
+﻿53,TTSC Group,,,🌏, 2-CORE CONDUIT , 3   
+﻿43,TTSC Group,,,🔑,7-CORE CABLE , 14  
+﻿52,TTSC Group,,,🌏, 2-CORE CABLE , 3   
+﻿55,TTSC Group,,, 🏁, ORDER COMPLETE? <h3>✅ / ❌ </h3>  
+﻿56,TTSC Group,,, 🏁, BACKORDER ITEMS ,Items listed below will be sent ASAP:  
+﻿57,TTSC Group,,, 📝, NOTES 
+﻿54,TTSC Group,,, 👷, SENT BY / CHECKED BY 
+﻿1,TTSC Group,,, 📅, DATE REQUIRED , 2022-11-14   
+﻿2,TTSC Group,,, 👨🏻‍💼, CUSTOMER 
+﻿3,TTSC Group,,, 📧, EMAIL ADDRESS , admin@ttscgroup.com.au   
+﻿58,TTSC Group,,, 
+﻿4,TTSC Group,,, 🚛, END CUSTOMER 
+﻿6,TTSC Group,,, 👨🏼‍💼, CLIENT ORDER # 
+﻿7,TTSC Group,,, 🏷️, PRODUCTION ORDER 
+﻿9,TTSC Group,,, 1️⃣, UNIT , , [A-1130]  ~Icepack 2000-ES Unit, , [A-1131B]  ~Install Kit suit Icepack 2000-ES Unit BASE MOUNT  
+﻿5,TTSC Group,,, 📅, DATE DESPATCHED  
+﻿11,TTSC Group,,, 🗻, MOUNTING , Base   
+﻿8,TTSC Group,,, 💲, PURCHASE ORDER 
+﻿10,TTSC Group,,, 🚛, TRUCK , Mack   
+﻿13,TTSC Group,,, 🎁, LID , , [A-1169R]  Lid Standard - IPS Spec 2000-ES   
+﻿14,TTSC Group,,, ▶️, BADGE , , Square '4 Hole'   
+﻿15,TTSC Group,,, ❄️, EVAPORATOR , , [A-1310]  ~Evaporator Under Shelf   
+﻿17,TTSC Group,,, 👨🏻‍🏭, WELDED BRACKET , true   
+﻿16,TTSC Group,,,🔋, AUTO START,, [A-1370] ~Auto Start Kit
+﻿12,TTSC Group,,, 🎨, PAINT COLOUR , Raw   
+﻿22,TTSC Group,,, ❄️, DRIER , , [SP-2250]  ~Reciever Drier RD2089   
+﻿24,TTSC Group,,, ❄️, PRESSURE SWITCH , , [SP-2257]  Pressure switch   
+﻿25,TTSC Group,,, 🔑, CONTROL PANEL , , [A-1371A-BASIC]  ~Control Panel  Auto Start, , Square 4-Hole - Auto - 1000   
+﻿26,TTSC Group,,, 📦, MOUNTING INSTALL , , [SP-2051]  Base Mount Bush [x4], , [FP-2503]  ES Front Air Baffle, , [FP-2551]  Solid Rear Cover, , Lid Bolt [x4]   
+﻿27,TTSC Group,,, ❄️, EVAPORATOR INSTALL , , [FP-8070]  ~Evap Bracket Stand Up [x2]   
+﻿28,TTSC Group,,, 🚰, AC FITTINGS , ,#6 90° FOR [x4], ,#6 O-rings [x4], ,#10 90° FOR, ,#10 0° FOR, ,#10 0° FOR SP, ,#10 SP Splicer, ,#10 O-rings [x3]   
+﻿30,TTSC Group,,, 🗜️, WIRING BRACKET , ,  [FP-8080] Lizard Bracket   
+﻿33,TTSC Group,,,📦, TOOLBOX WIRING BOX , , [A-1361A] Toolbox Wiring Box (Auto Start)  
+﻿34,TTSC Group,,,📦, GENERIC KIT , , [SP-2089] Generic Kit   
+﻿35,TTSC Group,,, 📄, SERVICE SHEET , , [A-1058]  Service Sheet   
+﻿36,TTSC Group,,,📄, CHECKLIST , , [A-1040]  Install Service Checklist   
+﻿41,TTSC Group,,,⛽, FUEL HOSE , 14   
+﻿42,TTSC Group,,,⛽, FUEL HOSE CONDUIT , 7   
+﻿43,TTSC Group,,,🔑,7-CORE CABLE , 13  
+﻿44,TTSC Group,,,🔑, 7-CORE CONDUIT , 13   
+﻿37,TTSC Group,,,⚡, CHARGE , 12V   
+﻿45,TTSC Group,,,⚡, BATTERY CABLE , 12        
+﻿46,TTSC Group,,,⚡, BATTERY CABLE CONDUIT , 12        
+﻿47,TTSC Group,,,❄️, #6 AC HOSE , 10           
+﻿49,TTSC Group,,,❄️, #10 AC HOSE , 10           
+﻿50,TTSC Group,,,🔧, 50mm CONDUIT , , 1500mm   
+﻿55,TTSC Group,,, 🏁, ORDER COMPLETE? <h3>✅ / ❌ </h3>  
+﻿54,TTSC Group,,, 👷, SENT BY / CHECKED BY 
+﻿56,TTSC Group,,, 🏁, BACKORDER ITEMS ,Items listed below will be sent ASAP:  
+﻿57,TTSC Group,,, 📝, NOTES 
+﻿19,TTSC Group,,,✨, CARPET , Grey  
+﻿2,peter clarke air con,,, 👨🏻‍💼, CUSTOMER 
+﻿1,peter clarke air con,,, 📅, DATE REQUIRED , 2022-11-30   
+﻿3,peter clarke air con,,, 📧, EMAIL ADDRESS , peter@pcairconditioning.com.au   
+﻿4,peter clarke air con,,, 🚛, END CUSTOMER 
+﻿5,peter clarke air con,,, 📅, DATE DESPATCHED  
+﻿6,peter clarke air con,,, 👨🏼‍💼, CLIENT ORDER # 
+﻿58,TTSC Group,,, 
+﻿8,peter clarke air con,,, 💲, PURCHASE ORDER 
+﻿9,peter clarke air con,,, 1️⃣, UNIT , , [A-1130]  ~Icepack 2000-ES Unit, , [A-1131B]  ~Install Kit suit Icepack 2000-ES Unit BASE MOUNT  
+﻿10,peter clarke air con,,, 🚛, TRUCK , Mack   
+﻿7,peter clarke air con,,, 🏷️, PRODUCTION ORDER 
+﻿12,peter clarke air con,,, 🎨, PAINT COLOUR , Raw   
+﻿13,peter clarke air con,,, 🎁, LID , , [A-1169]  ES Standard Lid   
+﻿14,peter clarke air con,,, ▶️, BADGE , , Square '4 Hole'   
+﻿15,peter clarke air con,,, ❄️, EVAPORATOR , , [A-1335]  ~Dual Blower   
+﻿17,peter clarke air con,,, 👨🏻‍🏭, WELDED BRACKET , true   
+﻿16,peter clarke air con,,,🔋, AUTO START,, [A-1370] ~Auto Start Kit
+﻿21,peter clarke air con,,,🌨️, BUNK AIR , , [A-1631]  ~Bunk Air Kit, , [A-1335]  ~Dual Blower, , [FP-8070]  ~Evap Bracket Stand Up [x2]   
+﻿19,peter clarke air con,,,✨, CARPET , Grey  
+﻿11,peter clarke air con,,, 🗻, MOUNTING , Base   
+﻿22,peter clarke air con,,, ❄️, DRIER , , [SP-2250]  ~Reciever Drier RD2089   
+﻿25,peter clarke air con,,, 🔑, CONTROL PANEL , , [A-1371A-BASIC]  ~Control Panel  Auto Start, , Square 4-Hole - Auto - 1000   
+﻿26,peter clarke air con,,, 📦, MOUNTING INSTALL , , [SP-2051]  Base Mount Bush [x4], , [FP-2503]  ES Front Air Baffle, , [FP-2551]  Solid Rear Cover, , Lid Bolt [x4]   
+﻿28,peter clarke air con,,, 🚰, AC FITTINGS , ,#6 90° FOR [x4], ,#6 O-rings [x4], ,#10 90° FOR, ,#10 0° FOR, ,#10 0° FOR SP, ,#10 SP Splicer, ,#10 O-rings [x3]   
+﻿24,peter clarke air con,,, ❄️, PRESSURE SWITCH , , [SP-2257]  Pressure switch   
+﻿27,peter clarke air con,,, ❄️, EVAPORATOR INSTALL , , [FP-8070]  ~Evap Bracket Stand Up [x2]   
+﻿30,peter clarke air con,,, 🗜️, WIRING BRACKET , ,  [FP-8080] Lizard Bracket   
+﻿33,peter clarke air con,,,📦, TOOLBOX WIRING BOX , , [A-1361A] Toolbox Wiring Box (Auto Start)  
+﻿34,peter clarke air con,,,📦, GENERIC KIT , , [SP-2089] Generic Kit   
+﻿31,peter clarke air con,,,📶, REMOTE START , , [A-1249]  ~Wireless Remote Starter Box   
+﻿35,peter clarke air con,,, 📄, SERVICE SHEET , , [A-1058]  Service Sheet   
+﻿36,peter clarke air con,,,📄, CHECKLIST , , [A-1040]  Install Service Checklist   
+﻿40,peter clarke air con,,,💨, REMOTE MUFFLER , , [SP-2415]  Remote Muffler, , Remote Exhaust Kit, , [FP-2240] Exhaust Flange   
+﻿37,peter clarke air con,,,⚡, CHARGE , 12V   
+﻿41,peter clarke air con,,,⛽, FUEL HOSE , 14   
+﻿43,peter clarke air con,,,🔑,7-CORE CABLE , 13  
+﻿44,peter clarke air con,,,🔑, 7-CORE CONDUIT , 13   
+﻿42,peter clarke air con,,,⛽, FUEL HOSE CONDUIT , 7   
+﻿45,peter clarke air con,,,⚡, BATTERY CABLE , 12        
+﻿47,peter clarke air con,,,❄️, #6 AC HOSE , 10           
+﻿46,peter clarke air con,,,⚡, BATTERY CABLE CONDUIT , 12        
+﻿49,peter clarke air con,,,❄️, #10 AC HOSE , 10           
+﻿50,peter clarke air con,,,🔧, 50mm CONDUIT , , 500mm   
+﻿55,peter clarke air con,,, 🏁, ORDER COMPLETE? <h3>✅ / ❌ </h3>  
+﻿56,peter clarke air con,,, 🏁, BACKORDER ITEMS ,Items listed below will be sent ASAP:  
+﻿58,peter clarke air con,,, 
+﻿57,peter clarke air con,,, 📝, NOTES 
+﻿54,peter clarke air con,,, 👷, SENT BY / CHECKED BY 
