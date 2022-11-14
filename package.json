@@ -1,0 +1,15 @@
+{
+  "name": "order-day-summary",
+  "version": "1.0.0",
+  "description": "Summarize parts on order.html files within a folder",
+  "main": "Summarize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tye Fender",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^20.0.2"
+  }
+}

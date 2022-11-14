@@ -1,0 +1,300 @@
+ 2022-10-21 
+ admin@ttscgroup.com.au 
+ Kenworth 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Base 
+⬜️ [A-1169R] Lid Standard - IPS Spec 2000-ES 
+ Raw 
+⬜️ Kenworth 3 Switch 
+⬜️ [A-1310-H] ~Evaporator Under Shelf with Heater Option 
+ true 
+⬜️ [A-1701] Icepack Electric Heater,⬜️ [A-1702] Icepack Electric Heater Install Kit
+⬜️ [A-1631] ~Bunk Air Kit, ⬜️ [A-1310-L] ~Evaporator Under Shelf LHD Valve, ⬜️ [FP-8070]  ~Evap Bracket Stand Up [x2] 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [A-1371H-A] ~Control Panel Auto Heater, ⬜️ [A-1373T-HEATAUTO] ~Badge Auto (1000) - Heater 
+⬜️ [A-1370] ~Auto Start Kit
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-8240] Air Deflector, ⬜️ [FP-2551]  Solid Rear Cover 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [FP-8080] Lizard Bracket 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+⬜️ [SP-2089] Generic Kit 
+ 12V 
+ 14 
+⬜️ [SP-2415] Remote Muffler 
+ 7 
+ 13 
+ 13 
+ 12 
+ 2022-11-15 
+ 12 
+ bjolly@cjd.com.au 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Base 
+ Raw 
+⬜️ [A-1169] ES Standard Lid 
+⬜️ Kenworth 3 Switch 
+⬜️ [A-1310] ~Evaporator Under Shelf 
+ Kenworth 
+⬜️ [A-1631] ~Bunk Air Kit, ⬜️ [A-1310-L] ~Evaporator Under Shelf LHD Valve, ⬜️ [FP-8070]  ~Evap Bracket Stand Up [x2] 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+ true 
+⬜️ [A-1373T-BASIC] ~Control Panel Toggle Start, ⬜️ [A-1373T-1000] ~Badge Toggle (1000) 
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-8240] Air Deflector, ⬜️ [FP-2551]  Solid Rear Cover 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [A-1361] Toolbox Wiring Box - (TomBox) 
+⬜️ [SP-2089] Generic Kit 
+ 12V 
+ 14 
+ 7 
+ 13 
+ 13 
+⬜️ [FP-8080] Lizard Bracket 
+ 12 
+ 12 
+ 10 
+ 10 
+ 2022-12-12 
+ admin@ttscgroup.com.au 
+⬜️ [A-1110] ~Icepack 2000-IC Unit,
+ Kenworth 
+⬜️ [A-1486] IC Cross Member Dolly Pull Kit- suit KENWORTH with HD dolly pull 
+⬜️ [FP-3045] 2000-IC Bottom Cover plate 
+ Raw 
+⬜️ Rectangle '4 hole' 
+⬜️ [A-1370] ~Auto Start Kit
+⬜️ [A-1310] ~Evaporator Under Shelf 
+ 
+ true 
+⬜️ [A-1610] IC X-Mem Bolt Kit 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [A-1371A-BASIC] ~Control Panel Auto Start, ⬜️ [A-1371A-300]  ~Badge Auto (300) 
+⬜️ [SP-2060] Rear Mount Bush [x4], ⬜️ [MOT-3309] BSP - 3/8 BSP M/F Adapter - Elbow 90° 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#8 45° FOR [x1], ⬜️#8 0° FOR-SP [x1], ⬜️#8 O-rings [x2] ⬜️#10 90° FOR, ⬜️#10 O-rings [x1] 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️ [A-1210] ~Condensor Kit - Standard, 
+   ⬜️ [FP-7040]  ~Condensor Bolt On Leg (x2), ⬜️ 3/8 x 1 bolt (x4), 3/8 washer (x8), 3/8 nyloc nut (x4) 
+⬜️ [FP-8202] ~Bracket - Loom - Under Cab - suit Kenworth K200 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+⬜️ [SP-2089] Generic Kit 
+ 12V 
+⬜️ [A-1241] ~Remote Wiring Box 
+ 8 
+ 16 
+ 14 
+ 12 
+ 2022-11-14 
+ 14 
+ admin@ttscgroup.com.au 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Mack 
+ Base 
+ Raw 
+⬜️ [A-1169R] Lid Standard - IPS Spec 2000-ES 
+⬜️ [A-1310] ~Evaporator Under Shelf 
+⬜️ Square '4 Hole' 
+⬜️ [A-1370] ~Auto Start Kit
+ Grey 
+ true 
+⬜️ [A-1371A-BASIC] ~Control Panel Auto Start, ⬜️ Square 4-Hole - Auto - 1000 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-2503] ES Front Air Baffle, ⬜️ [FP-2551]  Solid Rear Cover, 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+⬜️ [SP-2089] Generic Kit 
+ 12V 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [FP-8080] Lizard Bracket 
+ 14 
+ 7 
+ 13 
+ 13 
+ 12 
+ 12 
+ 2022-11-30 
+ 10 
+ 10 
+ peter@pcairconditioning.com.au 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Mack 
+ Base 
+⬜️ [A-1169] ES Standard Lid 
+ Raw 
+⬜️ Square '4 Hole' 
+⬜️ [A-1335] ~Dual Blower 
+⬜️ [A-1370] ~Auto Start Kit
+ true 
+ Grey 
+⬜️ [A-1631] ~Bunk Air Kit, ⬜️ [A-1335] ~Dual Blower, ⬜️ [FP-8070]  ~Evap Bracket Stand Up [x2] 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [A-1371A-BASIC] ~Control Panel Auto Start, ⬜️ Square 4-Hole - Auto - 1000 
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-2503] ES Front Air Baffle, ⬜️ [FP-2551]  Solid Rear Cover, 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [FP-8080] Lizard Bracket 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+⬜️ [SP-2089] Generic Kit 
+⬜️ [A-1249] ~Wireless Remote Starter Box 
+⬜️ [SP-2415] Remote Muffler, ⬜️ Remote Exhaust Kit, ⬜️ [FP-2240] Exhaust Flange 
+ 12V 
+ 14 
+ 7 
+ 13 
+ 12 
+ 13 
+ 2022-10-21 
+ admin@ttscgroup.com.au 
+ Kenworth 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Base 
+ Raw 
+⬜️ [A-1169R] Lid Standard - IPS Spec 2000-ES 
+⬜️ [A-1310-H] ~Evaporator Under Shelf with Heater Option 
+⬜️ [A-1370] ~Auto Start Kit
+⬜️ Kenworth 3 Switch 
+ true 
+⬜️ [A-1701] Icepack Electric Heater,⬜️ [A-1702] Icepack Electric Heater Install Kit
+⬜️ [A-1631] ~Bunk Air Kit, ⬜️ [A-1310-L] ~Evaporator Under Shelf LHD Valve, ⬜️ [FP-8070]  ~Evap Bracket Stand Up [x2] 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [A-1371H-A] ~Control Panel Auto Heater, ⬜️ [A-1373T-HEATAUTO] ~Badge Auto (1000) - Heater 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-8240] Air Deflector, ⬜️ [FP-2551]  Solid Rear Cover 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️ [FP-8080] Lizard Bracket 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+ 12V 
+⬜️ [SP-2089] Generic Kit 
+⬜️ [SP-2415] Remote Muffler 
+ 7 
+ 14 
+ 12 
+ 13 
+ 13 
+ 2022-11-15 
+ 12 
+ bjolly@cjd.com.au 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Kenworth 
+ Base 
+⬜️ [A-1169] ES Standard Lid 
+ Raw 
+⬜️ Kenworth 3 Switch 
+⬜️ [A-1310] ~Evaporator Under Shelf 
+ true 
+⬜️ [A-1631] ~Bunk Air Kit, ⬜️ [A-1310-L] ~Evaporator Under Shelf LHD Valve, ⬜️ [FP-8070]  ~Evap Bracket Stand Up [x2] 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [A-1373T-BASIC] ~Control Panel Toggle Start, ⬜️ [A-1373T-1000] ~Badge Toggle (1000) 
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-8240] Air Deflector, ⬜️ [FP-2551]  Solid Rear Cover 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️ [FP-8080] Lizard Bracket 
+⬜️ [A-1361] Toolbox Wiring Box - (TomBox) 
+ 12V 
+⬜️ [SP-2089] Generic Kit 
+ 14 
+ 7 
+ 13 
+ 13 
+ 12 
+ 12 
+ 10 
+ 10 
+ 2022-12-12 
+ admin@ttscgroup.com.au 
+⬜️ [A-1110] ~Icepack 2000-IC Unit,
+ Kenworth 
+⬜️ [A-1486] IC Cross Member Dolly Pull Kit- suit KENWORTH with HD dolly pull 
+ Raw 
+⬜️ [FP-3045] 2000-IC Bottom Cover plate 
+⬜️ [A-1310] ~Evaporator Under Shelf 
+⬜️ Rectangle '4 hole' 
+⬜️ [A-1370] ~Auto Start Kit
+ 
+ true 
+⬜️ [A-1610] IC X-Mem Bolt Kit 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [A-1371A-BASIC] ~Control Panel Auto Start, ⬜️ [A-1371A-300]  ~Badge Auto (300) 
+⬜️ [SP-2060] Rear Mount Bush [x4], ⬜️ [MOT-3309] BSP - 3/8 BSP M/F Adapter - Elbow 90° 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#8 45° FOR [x1], ⬜️#8 0° FOR-SP [x1], ⬜️#8 O-rings [x2] ⬜️#10 90° FOR, ⬜️#10 O-rings [x1] 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️ [A-1210] ~Condensor Kit - Standard, 
+   ⬜️ [FP-7040]  ~Condensor Bolt On Leg (x2), ⬜️ 3/8 x 1 bolt (x4), 3/8 washer (x8), 3/8 nyloc nut (x4) 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+⬜️ [FP-8202] ~Bracket - Loom - Under Cab - suit Kenworth K200 
+⬜️ [SP-2089] Generic Kit 
+⬜️ [A-1241] ~Remote Wiring Box 
+ 16 
+ 12V 
+ 14 
+ 8 
+ 14 
+ 2022-11-14 
+ 12 
+ admin@ttscgroup.com.au 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Mack 
+ Base 
+ Raw 
+⬜️ [A-1169R] Lid Standard - IPS Spec 2000-ES 
+⬜️ Square '4 Hole' 
+⬜️ [A-1310] ~Evaporator Under Shelf 
+⬜️ [A-1370] ~Auto Start Kit
+ true 
+ Grey 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [A-1371A-BASIC] ~Control Panel Auto Start, ⬜️ Square 4-Hole - Auto - 1000 
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-2503] ES Front Air Baffle, ⬜️ [FP-2551]  Solid Rear Cover, 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [FP-8080] Lizard Bracket 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+⬜️ [SP-2089] Generic Kit 
+ 12V 
+ 7 
+ 14 
+ 13 
+ 13 
+ 12 
+ 12 
+ 10 
+ 10 
+ 2022-11-30 
+ peter@pcairconditioning.com.au 
+⬜️ [A-1130] ~Icepack 2000-ES Unit,
+ Mack 
+ Base 
+ Raw 
+⬜️ [A-1169] ES Standard Lid 
+⬜️ Square '4 Hole' 
+⬜️ [A-1335] ~Dual Blower 
+⬜️ [A-1370] ~Auto Start Kit
+ true 
+ Grey 
+⬜️ [A-1631] ~Bunk Air Kit, ⬜️ [A-1335] ~Dual Blower, ⬜️ [FP-8070]  ~Evap Bracket Stand Up [x2] 
+⬜️ [SP-2250] ~Reciever Drier RD2089 
+⬜️ [SP-2257] Pressure switch 
+⬜️ [A-1371A-BASIC] ~Control Panel Auto Start, ⬜️ Square 4-Hole - Auto - 1000 
+⬜️ [SP-2051] Base Mount Bush [x4], ⬜️ [FP-2503] ES Front Air Baffle, ⬜️ [FP-2551]  Solid Rear Cover, 
+⬜️ [FP-8070] ~Evap Bracket Stand Up [x2] 
+⬜️#6 90° FOR [x4], ⬜️#6 O-rings [x4], ⬜️#10 90° FOR, ⬜️#10 0° FOR, ⬜️#10 0° FOR SP, ⬜️#10 SP Splicer, ⬜️#10 O-rings [x3] 
+⬜️ [FP-8080] Lizard Bracket 
+⬜️ [A-1249] ~Wireless Remote Starter Box 
+⬜️ [SP-2089] Generic Kit 
+⬜️ [A-1361A] Toolbox Wiring Box (Auto Start) 
+ 12V 
+⬜️ [SP-2415] Remote Muffler, ⬜️ Remote Exhaust Kit, ⬜️ [FP-2240] Exhaust Flange 
+ 14 
+ 7 
+ 13 
+ 13 
+ 12 
